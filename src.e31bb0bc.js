@@ -1738,7 +1738,7 @@ var _fetch = require("./fetch");
 
 var _utils = require("./utils");
 
-var worker = new Worker("/worker.067292b6.js");
+var worker = new Worker("./worker.067292b6.js");
 var filesElement = document.getElementById('file');
 var formElement = document.getElementById('form');
 var submitBtn = document.getElementById('submit');
