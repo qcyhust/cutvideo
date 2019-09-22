@@ -1,0 +1,19 @@
+label {
+    display: block;
+    margin: 10px;
+}
+
+input[type="submit"] {
+    font-size: 20px;
+    width: 140px;
+}
+
+.long {
+    width: 800px;
+}
+
+#loading {
+    display: none;
+}
+
+/*# sourceMappingURL=/style.251b6741.css.map */
